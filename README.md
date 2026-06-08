@@ -9,6 +9,8 @@
 **RA:** 1135673    
 **Link do repositorio:** https://github.com/eduu17/ACQA_Desenvolvimento-Mobile
 
+<img src="https://github.com/eduu17/ACQA_Desenvolvimento-Mobile/blob/main/Images/acqa.png" alt="Telas do Aplicativo">   
+
 ## 1. Introdução
 
 Este relatório descreve o desenvolvimento do aplicativo Agenda ACQA, criado para atender aos requisitos da Avaliação Continuada de Questão Aberta. A proposta era desenvolver um projeto em Flutter com tela de login/cadastro, calendáriocalendário, lista de tarefas, cadastro de novas tarefas, remoção e marcaçãoremoçãomarcação de tarefas como concluídas.
